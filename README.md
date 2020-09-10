@@ -12,4 +12,4 @@
 **https://css-tricks.com/**
 **https://css-live.ru/**
 
-* Ссылка на проект (https://github.com/GreySamson95/russian-travel).
+* Ссылка на проект (https://greysamson95.github.io/russian-travel/index.html.)

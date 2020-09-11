@@ -1,18 +1,19 @@
 @import url(./__copyright/footer__copyright.css);
 @import url(./__link/footer__link.css);
 @import url(./__links/footer__links.css);
+@import url(./__margin/footer__margin.css);
 
 .footer {
     display: flex;
     justify-content: space-between;
     margin: auto;
     max-width: 1184px;
-    padding: 92px 48px 24px 48px;
+    padding: 92px 48px 0 48px;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px){
+@media screen and (max-width: 1024px){
     .footer {
-      padding: 88px 24px 24px 24px;
+      padding: 88px 24px 0 24px;
       max-width: 928px;
     }
 }
@@ -22,5 +23,6 @@
       flex-direction: column;
       padding-top: 64px;
       padding-left: 16px; 
+      padding-bottom: 24px;
     }
 }

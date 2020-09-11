@@ -17,12 +17,12 @@
     min-height: 740px;
 }
 
-@media screen and (min-width:768px) and (max-width:1023px) {
+@media screen and (min-width:769px) and (max-width:1024px) {
   .cover{
     min-height: 640px;
   }
 }
-@media screen and (min-width:450px) and (max-width:767px) {
+@media screen and (min-width:450px) and (max-width:768px) {
   .cover{
     min-height: 480px;
   }

@@ -15,13 +15,13 @@
     background: rgba(42, 44, 47, .8);
   }
 
-  @media screen and (min-width:768px) and (max-width:1023px) {
+  @media screen and (min-width:769px) and (max-width:1024px) {
     .cover__overlay-link {
       min-height: 640px;
     }
 }
 
-@media screen and (min-width:450px) and (max-width:767px) {
+@media screen and (min-width:450px) and (max-width:768px) {
     .cover__overlay-link {
       min-height: 480px;
     }
